@@ -25,6 +25,7 @@ authors:
     - sarah-phan
     - xinjian-cen
     - néha-gupta
+    - Monique-Tudon
 ---
 Hi there! What are your favorite questions about teaching, learning, creativity, and design?
 
@@ -120,6 +121,10 @@ in the family of things.
 >Even the genius asks questions.
 >
 >_Tupac Shakur_
+
+>To give anything less than your best is to sacrifice the gift.
+>
+>_Steve Prefontaine_
 
 ## Want to add your favorite quote to this page?
 
